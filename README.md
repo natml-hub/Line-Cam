@@ -5,7 +5,7 @@ Realtime line detection on iOS and Android in Unity Engine with NatML.
 
 ## Requirements
 - Unity 2019.2+
-- NatML 1.0+
+- [NatML 1.0+](https://github.com/natsuite/NatML)
 - [@natsuite/line-segment-detector](https://hub.natsuite.io/predictor/@natsuite/line-segment-detector)
 - [NatDevice 1.1+](https://assetstore.unity.com/packages/tools/integration/natdevice-media-device-api-162053)
 
