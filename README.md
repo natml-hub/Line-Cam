@@ -1,5 +1,7 @@
 # Line Cam
-*INCOMPLETE*
+Realtime line detection on iOS and Android in Unity Engine with NatML.
+
+![lines](.media/lines.gif)
 
 ## Requirements
 - Unity 2019.2+
